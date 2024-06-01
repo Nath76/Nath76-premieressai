@@ -17,5 +17,4 @@ blabla je suis contente
 ></iframe>
 
 ## Un nouveau projet 
-
-https://geomapping.cortext.net/#/map/1764920a947530c8d13374a8e5a306da/countries
+<html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=icon href=/favicon.ico><title>CorText Geospatial exploration</title><link href=/css/app.5e64df09.css rel=preload as=style><link href=/css/chunk-vendors.7d06cc15.css rel=preload as=style><link href=/js/app.a3ae7dc5.js rel=preload as=script><link href=/js/chunk-vendors.ebec75cf.js rel=preload as=script><link href=/css/chunk-vendors.7d06cc15.css rel=stylesheet><link href=/css/app.5e64df09.css rel=stylesheet></head><body><noscript><strong>
