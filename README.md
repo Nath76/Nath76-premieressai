@@ -22,7 +22,7 @@ blabla je suis contente
 <script src="https://www.graphica.app/graphicajs/graphica.1.0.42.js" type="text/javascript"></script>
 <!-- SCImago Graphica © All rights reserved, 2021. https://www.graphica.app -->
 
-##Un nouveau graphe
+## Un nouveau graphe
 
 <!DOCTYPE html>
 <meta charset="utf-8">
