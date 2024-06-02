@@ -21,3 +21,14 @@ blabla je suis contente
 <script src="https://www.graphica.app/graphicajs/papaparse.min.js" type="text/javascript"></script>
 <script src="https://www.graphica.app/graphicajs/graphica.1.0.42.js" type="text/javascript"></script>
 <!-- SCImago Graphica © All rights reserved, 2021. https://www.graphica.app -->
+
+##Un nouveau graphe
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="https://labeleditor.cortext.net/svg_postmessage.js"></script>
+<head>
+<title>Bump Graph</title>
+<style>
+
+@import url(.bump_lib/style.css?20120521);
