@@ -6,7 +6,7 @@ blabla je suis contente
 
 ## Mes datavisualisations 
 
-# portfolio
+# Portfolio
 
 <iframe
   width="800"
