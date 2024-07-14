@@ -1,5 +1,5 @@
-# My portfolio
-Cette page rassemble des visualisations que j'ai réalisées ces derniers mois. 
+# Mon portfolio de visualisations
+Cette page rassemble des visualisations que j'ai réalisées ces derniers mois. La première série concerne des visualisations faites dans le cadre d'une étude sur les coopérations régionales dans l'océan indien. 
 
 
 # A propos de moi 
