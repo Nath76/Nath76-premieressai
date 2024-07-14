@@ -1,5 +1,5 @@
 # Mon portfolio de visualisations
-Cette page rassemble des visualisations que j'ai réalisées ces derniers mois. Ces visualisations sont relatives à deux études conduites ces derniers mois. La première analysait les coopérations entre les outre-mer français et leurs voisins dans les domaines agricole et agroalimentaire. La seconde avait trait aux résultats de différents pays en matière d'atteinte des Objectifs de développpement durables (ODD). Les graphes sont interactifs et explorables : votre curiosité est donc sollicitée.
+Cette page rassemble des visualisations réalisées ces derniers mois. Ces visualisations sont relatives à deux études conduites ces derniers mois. La première analysait les coopérations entre les outre-mer français et leurs voisins dans les domaines agricole et agroalimentaire. La seconde avait trait aux résultats de différents pays en matière d'atteinte des Objectifs de développpement durables (ODD). Les graphes sont interactifs et explorables : votre curiosité est donc sollicitée.
 
 # Mes datavisualisations 
 
