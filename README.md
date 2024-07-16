@@ -12,6 +12,6 @@ Cette page rassemble des visualisations réalisées ces derniers mois. Ces visua
   allowFullScreen
 ></iframe>
 
-# Un graphe sur Power BI
+# Une carte des flux 
+<iframe width="800" height="600" src="https://www.flowmap.blue/1R5ysJjN1mwh_TcXw3lJWLhOrTrWOTfcoz1ZWiL51_t8/embed?v=26.984640%2C52.098280%2C1.61%2C0%2C0&a=1&as=1&b=1&bo=75&c=1&ca=1&d=0&fe=1&lt=1&lfm=ALL&col=Magenta&f=50" frameborder="0" allowfullscreen></iframe>
 
-<iframe title="tableau de bord1606" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjU4ZTA3ZmEtY2RjYi00YjcxLWIyMmQtYWE2ZjM1YmQyNjRjIiwidCI6ImI1ZWNkMTJhLTQ5YzAtNGQ2MC04OTI5LWZjOTQwMzA1MGRkMyJ9" frameborder="0" allowFullScreen="true"></iframe>
